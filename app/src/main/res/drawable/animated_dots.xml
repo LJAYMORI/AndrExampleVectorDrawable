@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/dots">
+
+    <target
+        android:animation="@animator/dot_left"
+        android:name="group_left"/>
+
+    <target
+        android:animation="@animator/dot_center"
+        android:name="group_center"/>
+
+    <target
+        android:animation="@animator/dot_right"
+        android:name="group_right"/>
+
+</animated-vector>
