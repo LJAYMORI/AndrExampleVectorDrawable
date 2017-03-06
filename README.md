@@ -13,4 +13,6 @@ http://pluu.github.io/blog/android/2016/04/11/android-vector/
 
 https://developer.android.com/guide/topics/resources/complex-xml-resources.html
 
+https://www.w3.org/TR/SVG11/paths.html#PathData
+
 Thank you :)
